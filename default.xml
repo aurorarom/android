@@ -586,6 +586,7 @@
   
   <project path="device/xiaomi/hermes" name="aurorarom/android_device_xiaomi_hermes" revision="cm-12.1_a53"/>
   <project path="vendor/xiaomi/hermes" name="aurorarom/android_vendor_xiaomi_hermes" revision="cm-12.1_a53"/>
-  <project path="packages/apps/Snap" name="CyanogenMod/android_packages_apps_Snap" />
+  
+  <project path="packages/apps/Snap" name="aurorarom/android_packages_apps_Snap" revision="cm-12.1_a53"/>
   
 </manifest>
